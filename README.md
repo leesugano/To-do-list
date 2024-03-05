@@ -21,7 +21,7 @@ I did this project with the intention of practicing my activity as a programmer 
   <img alt="todolist" src="/assets/img/preview.jpeg" width="100%">
 </p>
 
-## 🚀 Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
@@ -30,13 +30,13 @@ This project was developed with the following technologies:
 - Git and Github
 - Figma
 
-## 💻 Project
+## Project
 
 This is a project to manage your tasks.
 
 - [Access the finished project online](https://leesugano.github.io/todolist)
 
-## :memo: License
+## License
 
 This project is under license MIT.
 
